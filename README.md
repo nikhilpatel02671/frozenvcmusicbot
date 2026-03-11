@@ -41,7 +41,7 @@
 ## ⚡ One-click Setup
 
 <p align="center">
-<a href="https://github.com/kustbots/frozenvcmusicbot/fork"><img src="https://img.shields.io/badge/-Fork%20Repo-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/kustbots/Mafia music bot/fork"><img src="https://img.shields.io/badge/-Fork%20Repo-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/kustbots/frozenvcmusicbot/blob/master/frozen.env)
+- Get your [Necessary Variables](https://github.com/kustbots/Mafia music bot/blob/master/Mafia.env)
 - <p align="center">
 <a href="https://www.youtube.com/watch?v=LSlKMWmhh20"><img src="https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube Tutorial"/></a>
 </p>
